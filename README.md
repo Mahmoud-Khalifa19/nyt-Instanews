@@ -1,4 +1,4 @@
-#NYT Instanews Project
+# NYT Instanews Project
 
 
 The Project
