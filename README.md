@@ -22,4 +22,4 @@ The purpose of this project was to convert a adobe photoshop design into a websi
 
 
 ## Link
-[JubileeAusten](https://mamzyk12.github.io/Jubilee-Austen/) 
+[NYT-API](https://mamzyk12.github.io/NYT-Instanews/) 
