@@ -1,9 +1,14 @@
 # NYT Instanews Project
 
 
-The Project
+# The Project
 
-The purpose of the project was to create a one-page, responsive website that allows a user to filter top news story categories via the New York Times API. 
+The purpose of the project was to create a one-page, responsive website that allows a user to filter top news story categories via the New York Times API. The content was requested through the NYT website which was frequently used to pull and append data. Each category had 12 news.
+
+* Mobile (320px)
+* Tablet (600px)
+* Desktop (1240px)
+
 
 # Built With
 1. HTML
