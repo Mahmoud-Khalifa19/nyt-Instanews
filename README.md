@@ -8,6 +8,11 @@ The purpose of the project was to create a one-page, responsive website that all
 # Built With
 1. HTML
 2. CSS
+3. JavaScript
+4. jQuery
+5. Ajax
+6. Sass
+7. Gulp
 
 
 
