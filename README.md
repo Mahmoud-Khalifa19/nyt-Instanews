@@ -12,18 +12,20 @@ The purpose of the project was to create a one-page, responsive website that all
 
 # Built With
 * HTML
-* CSS
+* CSS/SASS
 * JavaScript
 * jQuery
-* Ajax
-* Sass
+* Ajax/JSON
 * Gulp
 
 
 
 # Personal Learnings
 
-The purpose of this project was to convert a adobe photoshop design into a website using the basics of HTML & CSS. It was challenging at first but to overcome a project like this its important to plan before coding otherwise it would be difficult to breakdown the sections.
+This website is a single page news site that allows users to filter top news stories via the New York Times API. The purpose of this project was to fetch data from the NYT API and append it to the page using a grid method. 
+
+The main purpose of this project was to make an Ajax request to fetch data from The New York Times API, populate the page with the returned data according to the user’s selected category, and handle the outcome should the request fail. Furthermore this was also the first project in which I used a preprocessor (SASS), taskrunner (Gulp) and  version control (Git/GitHub).
+
 
 
 ## Link
