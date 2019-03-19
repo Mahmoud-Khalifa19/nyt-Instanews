@@ -18,7 +18,7 @@ function loadData(section) {
 	loader.show()
 	var url = `https://api.nytimes.com/svc/topstories/v2/${section}.json`;
 url += '?' + $.param({
-  'api-key': "82f12f3e4189492f86578cb2d4e6add0"
+  'api-key': "0751ffff01d7a70710354972fa0ad4a9"
 });
 
 $.ajax({
