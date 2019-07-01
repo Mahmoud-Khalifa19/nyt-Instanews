@@ -29,4 +29,4 @@ The main purpose of this project was to make an Ajax request to fetch data from 
 
 
 ## Link
-[NYT-API](https://mamzyk12.github.io/NYT-Instanews/) 
+[NYT-API](https://Mahmoud-Khalifa19.github.io/NYT-Instanews/) 
